@@ -1,0 +1,32 @@
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\bin\Debug\net6.0\appsettings.json
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\bin\Debug\net6.0\Auth REST API.exe
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\bin\Debug\net6.0\Auth REST API.deps.json
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\bin\Debug\net6.0\Auth REST API.runtimeconfig.json
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\bin\Debug\net6.0\Auth REST API.dll
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\bin\Debug\net6.0\Auth REST API.pdb
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\obj\Debug\net6.0\Auth REST API.csproj.AssemblyReference.cache
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\obj\Debug\net6.0\Auth REST API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\obj\Debug\net6.0\Auth REST API.AssemblyInfoInputs.cache
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\obj\Debug\net6.0\Auth REST API.AssemblyInfo.cs
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\obj\Debug\net6.0\Auth REST API.csproj.CoreCompileInputs.cache
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\obj\Debug\net6.0\Auth REST API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\obj\Debug\net6.0\Auth REST API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\obj\Debug\net6.0\staticwebassets\msbuild.Auth REST API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\obj\Debug\net6.0\staticwebassets\msbuild.build.Auth REST API.props
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Auth REST API.props
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Auth REST API.props
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\obj\Debug\net6.0\scopedcss\bundle\Auth REST API.styles.css
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\obj\Debug\net6.0\Auth REST API.csproj.CopyComplete
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\obj\Debug\net6.0\Auth REST API.dll
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\obj\Debug\net6.0\refint\Auth REST API.dll
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\obj\Debug\net6.0\Auth REST API.pdb
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\obj\Debug\net6.0\Auth REST API.genruntimeconfig.cache
+C:\Users\Abdourahamane\source\repos\Auth REST API\Auth REST API\obj\Debug\net6.0\ref\Auth REST API.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5ON2cERNnR2tQsnvUlwcjQEhN7eGqNGta+Z1g6dZkd8=",
+  "Source": "Auth REST API",
+  "BasePath": "_content/Auth REST API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
